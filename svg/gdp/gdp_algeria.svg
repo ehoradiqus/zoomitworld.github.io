@@ -9,7 +9,7 @@
     </text>
 
     <!-- Corrected image reference -->
-    <image x="180" y="-50" width="280" height="280" xlink:href="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/bs.svg"/>
+    <image x="180" y="-50" width="280" height="280" href="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/bs.svg"/>
 
     <text x="70" y="180" font-family="Consolas" font-size="50" text-anchor="middle" fill="white">5%</text>
     <text x="70" y="356.842105263158" font-family="Consolas" font-size="50" text-anchor="middle" fill="white">2.5%</text>
