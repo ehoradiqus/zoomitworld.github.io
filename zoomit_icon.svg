@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="192" viewBox="0 0 1920 1920">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #fff;
+        stroke-width: 35.84px;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        stroke: #000;
+        stroke-width: 3.15px;
+      }
+    </style>
+  </defs>
+  <image width="1920" height="1920" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwHAAACLUlEQVR4nO3TQRGDABAEwYXKF/8KEwMIIIWO6ZZwe3Ns+267Bj33G8BjeKrOtwLrE3WflqdMAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgDQBkCYA0gRAmgBIEwBpAiBNAKQJgLRj21M/Al2fbb9tlx8gZ7v/EGoJL5ffe8sAAAAASUVORK5CYII="/>
+  <circle id="circle1" class="cls-1" cx="960.001" cy="960.001" r="763.189"/>
+  <path id="Z" class="cls-2" d="M923.529,1283.11L1557.61,496.738a11.108,11.108,0,0,1-4.48-3.933c-99.11-136.645-210.96-185.231-210.96-185.231H577.537a0.827,0.827,0,0,0-.408.471C340.456,439.115,276.8,635.275,276.8,635.275l719.1-.184L364.6,1424.17s69.6,110.28,231.788,198.48c4.147,2.25,5.558,4.76,5.558,4.76H1315.47s0.49-.4.53-0.41c249.7-128.77,327.36-343.89,327.36-343.89H923.529ZM1315,1628"/>
+  <circle id="circle2" class="cls-3" cx="960.001" cy="960.063" r="324.439"/>
+  <path id="cross1" class="cls-2" d="M935.984,635.516h46.563V1284.5H935.984V635.516Z"/>
+  <rect id="cross2" class="cls-4" x="634.781" y="936.719" width="648.969" height="46.593"/>
+  <rect id="linergt" x="1284.44" y="936.719" width="454.06" height="46.593"/>
+  <rect id="linelft" x="180.719" y="936.719" width="454.062" height="46.593"/>
+  <rect id="linebot" x="936.312" y="1284.84" width="46.594" height="454.07"/>
+  <rect id="linetop" x="936.312" y="181.125" width="46.594" height="454.063"/>
+</svg>
